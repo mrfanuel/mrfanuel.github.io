@@ -40,7 +40,8 @@ This is a mock example: the references are not complete yet!
   {% bibliography --query @unpublished %}
 {% endif %}
 
-<!-- Journal articles-->
+<!-- Books-->
+<!-- Temporarily commented out
 {% capture counter_book %}
   {% bibliography_count --query @book %}
 {% endcapture %}
@@ -48,7 +49,7 @@ This is a mock example: the references are not complete yet!
   <h2>Books</h2>
   {% bibliography --query @book %}
 {% endif %}
-
+-->
 <!-- Journal articles-->
 {% capture counter_article %}
   {% bibliography_count --query @article %}
@@ -85,7 +86,9 @@ This is a mock example: the references are not complete yet!
   {% bibliography --query @thesis %}
 {% endif %}
 
+
 <!-- Popularization -->
+<!-- Temporarily commented out
 {% capture counter_popularization %}
   {% bibliography_count --query @misc[keywords=popularization] %}
 {% endcapture %}
@@ -93,3 +96,4 @@ This is a mock example: the references are not complete yet!
   <h2>Popularization</h2>
   {% bibliography --query @misc[keywords=popularization] %}
 {% endif %}
+-->
