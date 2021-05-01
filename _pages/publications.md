@@ -29,7 +29,7 @@ title: "Publications"
 
 <!-- See also https://github.com/inukshuk/jekyll-scholar to customize your references -->
 
-This is a mock example: the references are not complete yet!
+<!--This is a mock example: the references are not complete yet! -->
 
 <!-- Preprints -->
 {% capture counter_preprints %}
