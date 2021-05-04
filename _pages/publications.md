@@ -44,7 +44,8 @@ title: "Publications"
   <h2>Books</h2>
   {% bibliography --query @book %}
 {% endif %}
--->
+
+
 <!-- Journal articles-->
 {% capture counter_article %}{% bibliography_count --query @article %}{% endcapture %}
 {% if counter_article != "0" %}
