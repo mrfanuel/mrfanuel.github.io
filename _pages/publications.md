@@ -80,3 +80,4 @@ title: "Publications"
 {% if counter_popularization != "0" %}
   <h2>Popularization</h2>
   {% bibliography --query @misc[keywords=popularization] %}
+{% endif %}
