@@ -76,12 +76,7 @@ title: "Publications"
 
 
 <!-- Popularization -->
-<!-- Temporarily commented out
-{% capture counter_popularization %}
-  {% bibliography_count --query @misc[keywords=popularization] %}
-{% endcapture %}
+{% capture counter_popularization %}{% bibliography_count --query @misc[keywords=popularization] %}{% endcapture %}
 {% if counter_popularization != "0" %}
   <h2>Popularization</h2>
   {% bibliography --query @misc[keywords=popularization] %}
-{% endif %}
--->
