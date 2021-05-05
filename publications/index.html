@@ -111,7 +111,7 @@
 
   </head>
 
-  <body class="layout--home wide">
+  <body class="layout--single">
     <nav class="skip-links">
   <h2 class="screen-reader-text">Skip links</h2>
   <ul>
@@ -138,6 +138,8 @@
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/publications/">Publications</a>
+            </li><li class="masthead__menu-item">
+              <a href="/teaching/">Teaching</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -427,11 +429,34 @@
 
 
 
-  <div class="archive">
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Publications">
     
-      <h1 id="page-title" class="page__title">Publications</h1>
     
     
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Publications
+</h1>
+          
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> On this page</h4></header>
+              <ul class="toc__menu"><li><a href="#preprints">Preprints</a></li><li><a href="#journal-articles">Journal articles</a></li><li><a href="#conference-papers">Conference papers</a></li><li><a href="#workshop-papers">Workshop papers</a></li><li><a href="#thesis">Thesis</a></li></ul>
+
+            </nav>
+          </aside>
+        
+        
 <p><a href="https://scholar.google.com/citations?hl=en&amp;user=MA0gvusAAAAJ">
     <i class="ai ai-google-scholar" aria-hidden="true"></i>Scholar
   </a></p>
@@ -442,7 +467,7 @@
 
 <!-- Preprints -->
 
-<h2>Preprints</h2>
+<h2 id="preprints">Preprints</h2>
 <ol class="bibliography" reversed="reversed"><li><span id="DPPsemiparam">Fanuel, M., Schreurs, J., &amp; Suykens, J. A. K. (2021). <i>Determinantal Point Processes Implicitly Regularize Semi-parametric Regression Problems</i>.</span>
 
 
@@ -1358,7 +1383,7 @@
 
 <!-- Journal articles-->
 
-<h2>Journal articles</h2>
+<h2 id="journal-articles">Journal articles</h2>
 <ol class="bibliography" reversed="reversed"><li><span id="fanuel2020diversity">Fanuel, M., Schreurs, J., &amp; Suykens, J. A. K. (2021). Diversity sampling is an implicit regularization for kernel methods. <i>SIAM Journal on Mathematics of Data Science</i>, <i>3</i>(1), 280–297.</span>
 
 
@@ -2577,7 +2602,7 @@
 
 <!-- Conference papers -->
 
-<h2>Conference papers</h2>
+<h2 id="conference-papers">Conference papers</h2>
 <ol class="bibliography" reversed="reversed"><li><span id="WassersteinExp">De Plaen, H., Fanuel, M., &amp; Suykens, J. A. K. (2020). Wasserstein exponential kernels. <i>International Joint Conference on Neural Networks (IJCNN 2020)</i>, 1–6.</span>
 
 
@@ -2846,7 +2871,7 @@
 
 <!-- Workshop papers -->
 
-<h2>Workshop papers</h2>
+<h2 id="workshop-papers">Workshop papers</h2>
 <ol class="bibliography" reversed="reversed"><li><span id="Schreurs2020diversity">Schreurs, J., Fanuel, M., &amp; Suykens, J. A. K. (2020). Ensemble Kernel Methods, Implicit Regularization and Determinantal Point Processes. In <i>ICML 2020 workshop on Negative Dependence and Submodularity, PMLR 119</i>.</span>
 
 
@@ -2985,7 +3010,7 @@
 
 <!-- Thesis -->
 
-<h2>Thesis</h2>
+<h2 id="thesis">Thesis</h2>
 <ol class="bibliography" reversed="reversed"><li><span id="FanuelThesis">Fanuel, M. (2014). <i>Non-perturbative Quantum Electrodynamics in low dimensions</i> [Université catholique de Louvain].</span>
 
 
@@ -3120,21 +3145,31 @@
 <!-- Popularization -->
 
 
+        
+      </section>
 
-<!-- <h3 class="archive__subtitle">Recent posts</h3>
+      <footer class="page__meta">
+        
+        
 
 
+        
 
 
-<div class="entries-list">
+      </footer>
+
+      
+
+      
+    </div>
+
+    
+  </article>
+
+  
   
 </div>
 
-
- -->
-
-  </div>
-</div>
     </div>
 
     
