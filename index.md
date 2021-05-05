@@ -20,7 +20,7 @@ I did several years of postdoc at KU Leuven (Stadius Center for Dynamical System
 
 I defended my PhD in theoretical physics under the supervision of [Jan Govaerts](https://cp3.irmp.ucl.ac.be/public/member/17) in the Research Institute in Mathematics and Physics of UCLouvain. My master degree in Physics was obtained in the same institute.
 
-## Some recent news
+## Latest news
 
 * Seminar (50 min.) at Université de Lille, Laboratoire Paul Painlevé, April 2, 2021 (Lille, France).
 * Seminar (50 min.) at INRIA Lille, February 16 2021 (Lille, France).
