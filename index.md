@@ -14,6 +14,8 @@ I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) i
   <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille.png" align="bottom" style="width:270px;height:90px;"></a>
 </div>
 
+**Research interests**:  kernel methods, graphs, determinantal point processes, learning from pairwise data, phase unwrapping and related problems. 
+
 ## Bio
 
 I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
