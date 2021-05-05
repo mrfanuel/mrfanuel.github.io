@@ -16,7 +16,7 @@ I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) i
 
 ## Bio
 
-I did several years of postdocs at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
+I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
 
 I defended my PhD in theoretical physics under the supervision of [Jan Govaerts](https://cp3.irmp.ucl.ac.be/public/member/17) in the Research Institute in Mathematics and Physics of UCLouvain. My master degree in Physics was obtained in the same institute.
 
