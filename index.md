@@ -14,7 +14,16 @@ I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) i
   <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille.png" align="bottom" style="width:270px;height:90px;"></a>
 </div>
 
-**Research interests**:  kernel methods, graphs, determinantal point processes, learning from pairwise data, phase unwrapping and related problems. 
+## Research interests
+
+kernel methods, graphs, repulsive point patterns. 
+
+<div align="middle" style="margin-top: 50px">
+  <a><img src="assets/images/RootedSpanningForest.png" align="bottom" style="width:260px;height:260px;"></a>
+
+  <a><img src="assets/images/Ginibre100pointsDisk.png" align="bottom" style="width:260px;height:260px;"></a>
+
+</div>
 
 ## Bio
 
@@ -24,6 +33,7 @@ I defended my PhD in theoretical physics under the supervision of [Jan Govaerts]
 
 ## Latest news
 
+* Paper accepted at **NeurIPS 2021** [arxiv](https://arxiv.org/abs/2106.14210).
 * Seminar (50 min.) at Université de Lille, Laboratoire Paul Painlevé, April 2, 2021 (Lille, France).
 * Seminar (50 min.) at INRIA Lille, February 16 2021 (Lille, France).
 * Contributed talk and Poster presentation Online, ICML 2020 Workshop Negative dependence and submodularity for ML (15 min.) July 18, 2020
