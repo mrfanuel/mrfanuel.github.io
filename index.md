@@ -18,13 +18,6 @@ I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) i
 
 kernel methods, graphs, repulsive point patterns. 
 
-<div align="middle" style="margin-top: 50px">
-  <a><img src="assets/images/RootedSpanningForest.png" align="bottom" style="width:260px;height:260px;"></a>
-
-  <a><img src="assets/images/Ginibre100pointsDisk.png" align="bottom" style="width:260px;height:260px;"></a>
-
-</div>
-
 ## Bio
 
 I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
@@ -41,3 +34,4 @@ I defended my PhD in theoretical physics under the supervision of [Jan Govaerts]
 * Seminar (50 min.) at INRIA Lille, September 11 2019 (Lille, France).
 * Plenary speaker (50 min.) at FNRS contact group "Wavelets and applications" November 7 2018 (ULB, Brussels, Belgium).
 * Seminar (50 min.) at The Alan Turing Institute, September 27, 2018 (London, UK).
+
