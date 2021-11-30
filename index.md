@@ -26,6 +26,7 @@ I defended my PhD in theoretical physics under the supervision of [Jan Govaerts]
 
 ## Latest news
 
+* Seminar (50 min.) at Université de Nantes, Laboratoire de mathématiques Jean Leray, November 30, 2021 (Nantes, France).
 * Paper accepted at **NeurIPS 2021** [arxiv](https://arxiv.org/abs/2106.14210).
 * Seminar (50 min.) at Université de Lille, Laboratoire Paul Painlevé, April 2, 2021 (Lille, France).
 * Seminar (50 min.) at INRIA Lille, February 16 2021 (Lille, France).
