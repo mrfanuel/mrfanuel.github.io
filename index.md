@@ -27,11 +27,11 @@ I defended my PhD in theoretical physics under the supervision of [Jan Govaerts]
 ## Latest news
 
 * Seminar (50 min.) at Université de Nantes, Laboratoire de mathématiques Jean Leray, November 30, 2021 (Nantes, France).
-* Paper accepted at **NeurIPS 2021** [arxiv](https://arxiv.org/abs/2106.14210).
+* Paper accepted at **NeurIPS 2021** [openreview](https://openreview.net/forum?id=MGHO3xLMohC).
 * Seminar (50 min.) at Université de Lille, Laboratoire Paul Painlevé, April 2, 2021 (Lille, France).
 * Seminar (50 min.) at INRIA Lille, February 16 2021 (Lille, France).
 * Contributed talk and Poster presentation Online, ICML 2020 Workshop Negative dependence and submodularity for ML (15 min.) July 18, 2020
-* Seminar (50 min.) Online, One World Seminar: Mathematical Methods for Arbitrary Data Sources (MADS) May 4, 2020.
+* Seminar (50 min.) Online, [One World Seminar: Mathematical Methods for Arbitrary Data Sources (MADS)](http://www.nonlocal-methods.eu/oneworld/talks/2020/05/04/session-2.html) May 4, 2020.
 * Seminar (50 min.) at INRIA Lille, September 11 2019 (Lille, France).
 * Plenary speaker (50 min.) at FNRS contact group "Wavelets and applications" November 7 2018 (ULB, Brussels, Belgium).
 * Seminar (50 min.) at The Alan Turing Institute, September 27, 2018 (London, UK).
