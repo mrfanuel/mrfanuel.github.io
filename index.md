@@ -25,7 +25,7 @@ I did several years of postdoc at KU Leuven (Stadius Center for Dynamical System
 I defended my PhD in theoretical physics under the supervision of [Jan Govaerts](https://cp3.irmp.ucl.ac.be/public/member/17) in the Research Institute in Mathematics and Physics of UCLouvain. My master degree in Physics was obtained in the same institute.
 
 ## Latest news
-
+* Poster presentation at [Determinantal and permanantal point processes, quantum physics, and signal processing](https://indico.in2p3.fr/event/25182/) ENS Lyon, June 2022 (Lyon, France).
 * Seminar (50 min.) at Université de Nantes, Laboratoire de mathématiques Jean Leray, November 30, 2021 (Nantes, France).
 * Paper accepted at **NeurIPS 2021** [openreview](https://openreview.net/forum?id=MGHO3xLMohC).
 * Seminar (50 min.) at Université de Lille, Laboratoire Paul Painlevé, April 2, 2021 (Lille, France).
