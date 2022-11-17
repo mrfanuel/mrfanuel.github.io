@@ -18,6 +18,15 @@ I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) i
 
 kernel methods, graphs, repulsive point patterns. 
 
+#### Need an example combining repulsion and graphs?
+
+A Spanning Tree (ST) is a spanning subgraph without any cycle. 
+Its edges are *repelling* each other.
+
+![](assets/images/ST_grid.gif)
+![](assets/images/ST_306.png)
+
+
 ## Bio
 
 I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
