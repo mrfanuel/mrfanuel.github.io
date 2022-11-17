@@ -26,6 +26,7 @@ Its edges are *repelling* each other.
 ![](assets/images/ST_grid.gif)
 ![](assets/images/ST_306.png)
 
+On the LHS, sampling of a ST with Wilson's algorithm (wait a few seconds to see the output). On the RHS, the output.
 
 ## Bio
 
