@@ -24,7 +24,7 @@ A Spanning Tree (ST) is a spanning subgraph without any cycle.
 Its edges are *repelling* each other.
 
 ![](assets/images/ST_grid.gif)
-![](assets/images/ST_306.png)
+![](assets/images/ST_111.png)
 
 On the LHS, sampling of a ST with Wilson's algorithm (wait a few seconds to see the output of the loop erased random walk). On the RHS, the output.
 More about that in [Sparsification of the regularized magnetic Laplacian
