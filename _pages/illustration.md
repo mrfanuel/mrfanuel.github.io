@@ -1,4 +1,10 @@
-
+---
+permalink: "/illustration/"
+layout: single
+#classes: wide
+author_profile: true
+title: "Illustration"
+---
 
 #### Need an example combining repulsion and graphs?
 
