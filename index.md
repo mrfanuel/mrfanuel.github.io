@@ -26,6 +26,7 @@ I did several years of postdoc at KU Leuven (Stadius Center for Dynamical System
 I defended my PhD in theoretical physics under the supervision of [Jan Govaerts](https://cp3.irmp.ucl.ac.be/public/member/17) in the Research Institute in Mathematics and Physics of UCLouvain. My master degree in Physics was obtained in the same institute.
 
 ## Latest news
+* Paper about the complexity of the fascinating CyclePopping algorithm [On the Number of Steps of CyclePopping in Weakly Inconsistent U(1)-Connection Graphs](https://arxiv.org/abs/2404.14803)
 * Paper about quantum computing with R. Bardenet and A. Feller [On sampling determinantal and Pfaffian
 point processes on a quantum computer](https://arxiv.org/pdf/2305.15851.pdf); see also the [Python code](https://github.com/For-a-few-DPPs-more/quantum-sampling-DPPs). Published in Journal of Physics A: Mathematical and Theoretical.
 * Seminar (50 min.) at ENS Lyon, Inria DANTE, December 13, 2022 (Lyon, France).
