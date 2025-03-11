@@ -28,8 +28,8 @@ I defended my PhD in theoretical physics under the supervision of [Jan Govaerts]
 ## Latest news
 * Preprint with R. Bardenet on arxiv [Bypassing orthogonalization in the quantum DPP sampler](https://arxiv.org/abs/2503.05906).
 * Seminar (50 min.) at Université de Poitiers (Département de Mathématiques), Dec. 12, 2024.
-* Invited talk at GdR IASIS meeting [Méthodes à noyaux à grande échelle]{https://gdr-iasis.cnrs.fr/reunion/532/} Nov 22, 2024 (Paris, Institut des Systèmes Complexes).
-* Invited talk at [WINQ Program on Complex and Quantum Systems]{https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems}, April 29, 2024 - May 3 2024, Nordita (Stockholm, Sweden).
+* Invited talk at GdR IASIS meeting [Méthodes à noyaux à grande échelle](https://gdr-iasis.cnrs.fr/reunion/532/) Nov 22, 2024 (Paris, Institut des Systèmes Complexes).
+* Invited talk at [WINQ Program on Complex and Quantum Systems](https://indico.fysik.su.se/event/8139/page/616-week-1-dynamics-and-topology-of-complex-network-systems), April 29, 2024 - May 3 2024, Nordita (Stockholm, Sweden).
 * Preprint with R. Bardenet on arxiv about the complexity of the fascinating CyclePopping algorithm [On the Number of Steps of CyclePopping in Weakly Inconsistent U(1)-Connection Graphs](https://arxiv.org/abs/2404.14803).
 * Paper about quantum computing with R. Bardenet and A. Feller [On sampling determinantal and Pfaffian
 point processes on a quantum computer](https://arxiv.org/pdf/2305.15851.pdf); see also the [Python code](https://github.com/For-a-few-DPPs-more/quantum-sampling-DPPs). Published in Journal of Physics A: Mathematical and Theoretical.
