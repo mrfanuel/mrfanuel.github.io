@@ -4,28 +4,17 @@ author_profile: true
 classes: wide
 ---
 
-I am currently a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille. My advisor is [Rémi Bardenet](https://rbardenet.github.io/).
-
-<div align="middle" style="margin-top: 50px">
-  <a href="http://www.cnrs.fr/en"><img class='logo' alt="logo_cnrs" src="assets/images/logo_cnrs.png" align="bottom" style="width:100px;height:100px;"></a>
-
-  <a href="https://www.cristal.univ-lille.fr/en"><img class='logo' alt="logo_cristal" src="assets/images/logo_cristal.png" align="bottom" style="width:260px;height:90px;"></a>
-
-  <a href="https://www.univ-lille.fr/home/"> <img class='logo' alt="logo_Lille1" src="assets/images/logo_ulille.png" align="bottom" style="width:270px;height:90px;"></a>
-</div>
-
-## Research interests
-
-kernel methods, graphs, repulsive point patterns. 
 
 
-## Bio
+Here is a short bio.
 
-I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
+Recently, I was a CNRS postdoc at [CRIStAL](https://www.cristal.univ-lille.fr/) in the [SigMA](https://www.cristal.univ-lille.fr/?rubrique27&eid=30) team in Lille. My advisor was [Rémi Bardenet](https://rbardenet.github.io/).
+
+Before that, I did several years of postdoc at KU Leuven (Stadius Center for Dynamical Systems, Signal Processing and Data Analytics)  with [Johan Suykens](https://www.esat.kuleuven.be/sista/members/suykens.html) and a one-year postdoc at UCLouvain with [Jean-Charles Delvenne](https://perso.uclouvain.be/jean-charles.delvenne/welcome.html) in the Mathematical Engineering department.
 
 I defended my PhD in theoretical physics under the supervision of [Jan Govaerts](https://cp3.irmp.ucl.ac.be/public/member/17) in the Research Institute in Mathematics and Physics of UCLouvain. My master degree in Physics was obtained in the same institute.
 
-## Latest news
+# Latest news
 * Preprint with R. Bardenet on arxiv [Bypassing orthogonalization in the quantum DPP sampler](https://arxiv.org/abs/2503.05906).
 * Seminar (50 min.) at Université de Poitiers (Département de Mathématiques), Dec. 12, 2024.
 * Invited talk at GdR IASIS meeting [Méthodes à noyaux à grande échelle](https://gdr-iasis.cnrs.fr/reunion/532/) Nov 22, 2024 (Paris, Institut des Systèmes Complexes).
