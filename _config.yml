@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic homepage"
+title                    : "Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michaël Fanuel"
-description              : "Academic homepage"
+description              : "Homepage"
 github                   : [metadata]
 url                      : "https://mrfanuel.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ author:
   avatar: "/assets/images/bio-photo_std.jpg"
   bio: "Machine learning/applied mathematics, PhD in Physics"
   location: "Belgium"
-  email: "michael.fanuel@univ-lille.fr"
+#  email: "michael.fanuel@univ-lille.fr"
   github: "mrfanuel"
   webpage: "https://mrfanuel.github.io"
   # Academic profiles
